@@ -42,7 +42,7 @@ B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and bus
 
 - 🛍️ **Ferns & Petals Business Intelligence Dashboard – Sales & Customer Analytics**  
   Developed a data-driven Excel dashboard using **1,000+ order records** to analyze revenue performance, customer spending patterns, product popularity, and order-to-delivery efficiency.  
-  Tools used: **Excel (Power Query, Pivot Tables, Data Modeling), SQL**
+  Tools used: **Excel (Power Query, Pivot Tables, Data Modeling)**
 
 - 🍫 **Chocolate Business Dashboard – Sales & Revenue Analysis**  
   Analyzed **800+ sales records**, standardized 15+ data fields, and delivered a **Power BI dashboard with 10+ performance metrics**.  
