@@ -15,7 +15,7 @@ B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and bus
 - 🌱 Skilled in **SQL, Python, Excel, Power BI, and Tableau**
 - 👯 Interested in working on **Data Analytics & Business Intelligence projects**
 - 💬 Ask me about **Excel dashboards, SQL analysis, Power BI reports**
-- 📫 How to reach me: **sampathtalada@gmail.com**
+- 📫 How to reach me: **sampath.t21@iiits.in**
 - ⚡ Fun fact: **I enjoy transforming raw business data into insights**
 
 ---
