@@ -7,9 +7,9 @@ B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and bus
 
 ---
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
-- 🎓 B.Tech in Computer Science & Engineering from **IIIT Sri City (2021–2025)**  
+- 🎓 B.Tech in Computer Science & Engineering from **IIIT Sri City (2021–2025)**
 - 💼 Currently working as **Management Trainee – Data Analytics @ Popular Motor Ventures**
 - 🔭 Experience in **data cleaning, KPI development, dashboarding, and reporting**
 - 🌱 Skilled in **SQL, Python, Excel, Power BI, and Tableau**
@@ -20,7 +20,7 @@ B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and bus
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/talada-sampath-kumar-685187260/
 - 💻 GitHub: https://github.com/sampath-iiits
@@ -28,35 +28,38 @@ B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and bus
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter" />
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,jupyter" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="45"/>
 </p>
 
 ---
 
+## 💼 Experience
 
-### 💼 Experience
+**Management Trainee – Data Analytics**  
+**Popular Motor Ventures | Aug 2025 – Present**
 
-- **Management Trainee – Data Analytics**  
-  **Popular Motor Ventures | Aug 2025 – Present**  
-  - Collected, cleaned, and analyzed operational and business data  
-  - Built Excel reports and dashboards to track KPIs and performance trends  
-  - Collaborated with business teams to support data-driven decision making  
+- Collected, cleaned, and analyzed operational and business data  
+- Built Excel reports and dashboards to track KPIs and performance trends  
+- Collaborated with business teams to support data-driven decision making  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sampath-iiits&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sampath-iiits&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-iiits&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-iiits&theme=tokyonight" />
 </p>
 
 ---
