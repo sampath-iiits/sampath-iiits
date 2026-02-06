@@ -51,16 +51,22 @@ B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and bus
 - Collaborated with business teams to support data-driven decision making  
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sampath-iiits&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sampath-iiits&show_icons=true&count_private=true&hide_border=true" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-iiits&theme=tokyonight" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-iiits&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </p>
+
 
 ---
 
