@@ -40,9 +40,9 @@ B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and bus
 
 ### 📌 Featured Projects
 
-- 📞 **Call Centre Analytics Dashboard – KPI & Performance Reporting**  
-  Built an interactive Excel dashboard analyzing **1,000+ call records** to monitor call volume, resolution time, and agent performance.  
-  Tools used: **Excel, SQL**
+- 🛍️ **Ferns & Petals Business Intelligence Dashboard – Sales & Customer Analytics**  
+  Developed a data-driven Excel dashboard using **1,000+ order records** to analyze revenue performance, customer spending patterns, product popularity, and order-to-delivery efficiency.  
+  Tools used: **Excel (Power Query, Pivot Tables, Data Modeling), SQL**
 
 - 🍫 **Chocolate Business Dashboard – Sales & Revenue Analysis**  
   Analyzed **800+ sales records**, standardized 15+ data fields, and delivered a **Power BI dashboard with 10+ performance metrics**.  
