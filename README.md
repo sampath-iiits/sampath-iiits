@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **SQL, Excel Analytics, Power BI, KPI Dashboards**
 
-- 📫 How to reach me **sampathtalada@gmail.com**
+- 📫 How to reach me **sampath.t22@iiits.in**
 
 - 📄 Know about my experiences  
   👉 [Resume](https://drive.google.com/file/d/1a3Ry31XORUyOud2W4g0K1Jlxscqtvywv/view)
