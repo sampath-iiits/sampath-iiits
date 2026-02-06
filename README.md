@@ -1,63 +1,69 @@
+<h1 align="center">Hi 👋, I'm Nihal Ahamad</h1>
+<h3 align="center">AI & Data Science Undergraduate | Machine Learning • Deep Learning • Computer Vision</h3>
 
-<h1 align="center">Hi 👋, I'm Sampath Kumar Talada</h1>
-<h3 align="center">A passionate Data Analyst & Business Intelligence enthusiast from India</h3>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=sampath-iiits&label=Profile%20views&color=0e75b6&style=flat" alt="sampath-iiits" />
-</p>
-
-- 🔭 I’m currently working as **Management Trainee – Data Analytics @ Popular Motor Ventures**
-
-- 🌱 I’m currently learning **Advanced SQL, Power BI DAX, Data Modeling & Business Analytics**
-
-- 👯 I’m looking to collaborate on **Data Analytics, Power BI & Dashboarding projects**
-
-- 👨‍💻 All of my projects are available at  
-  👉 [https://github.com/sampath-iiits](https://github.com/sampath-iiits)
-
-- 💬 Ask me about **SQL, Excel Analytics, Power BI, KPI Dashboards**
-
-- 📫 How to reach me **sampath.t22@iiits.in**
-
-- 📄 Know about my experiences  
-  👉 [Resume](https://drive.google.com/file/d/1a3Ry31XORUyOud2W4g0K1Jlxscqtvywv/view)
-
-- ⚡ Fun fact **I love converting messy data into clean insights 📊**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/talada-sampath-kumar-685187260/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://github.com/sampath-iiits" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-</a>
+<p align="center">
+Designing intelligent systems and solving real-world problems using data and AI
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" height="40"/></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-<a><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
-<a><img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/></a>
-</p>
+### 🙋‍♂️ About Me
+
+- 🎓 AI & Data Science undergraduate with a strong foundation in **Machine Learning and Computer Vision**
+- 🔭 Currently building **Neural Network models for Printed Character Recognition**
+- 🤖 Developing an **Autonomous Line-Following Robot with Obstacle Avoidance**
+- 🌱 Actively learning **Deep Learning, Advanced ML, Computer Vision, and DSA**
+- 👯 Open to collaborating on **AI/ML, Computer Vision, and Robotics projects**
+- 🤝 Looking for guidance on **ML model deployment & real-time perception systems**
+- 💬 Ask me about **Machine Learning, CNNs, OpenCV, Python**
+- 📫 Reach me at **nihalahamadb@gmail.com**
+- ⚡ Fun fact: **I enjoy blending design creativity with analytical problem-solving**
 
 ---
+
+### 🌐 Connect with Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/nihal-ahamad-b-83574b28a/
+- 💻 GitHub: https://github.com/NihalAhamad96
+
+---
+
+### 🛠️ Languages & Tools
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampath-iiits&show_icons=true&locale=en&layout=compact" />
+<img src="https://skillicons.dev/icons?i=python,c,javascript,tensorflow,pytorch,opencv,sklearn,sql,arduino,docker,git,github,vscode,figma,canva" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampath-iiits" />
+---
+
+### 📌 Featured Projects
+
+- 🧠 **Neural Networks for Printed Character Recognition**  
+  Developed a CNN-based character recognition system using **TensorFlow, Keras, and OpenCV**, achieving high accuracy on printed text datasets.
+
+- 🤖 **Line Following Robot with Obstacle Avoidance**  
+  Built an autonomous robotic system using **Arduino, sensors, and Python** to enable real-time navigation and obstacle detection.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nihalahamad&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalahamad&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalahamad&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
