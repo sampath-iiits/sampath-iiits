@@ -52,4 +52,33 @@ B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and bus
 
 ---
 
+## 🚀 Featured Projects
+
+### 🛒 Customer Shopping Behavior Analysis
+**Tech Stack:** Python • MySQL • SQL • Power BI  
+
+- Analyzed 3,900+ customer transactions to uncover spending patterns and behavioral trends  
+- Performed data cleaning, feature engineering, and database integration  
+- Implemented SQL queries for customer segmentation and top product analysis  
+- Built an interactive Power BI dashboard with KPIs, seasonal revenue trends, and top 3 products per category  
+- Provided business recommendations on loyalty programs and subscription strategies  
+
+🔗 GitHub Repository: [https://github.com/sampath-iiits/<your-repo-link> ](https://github.com/sampath-iiits/CSB---Analysis) 
+
+---
+
+### 🌸 FNP Sales & Business Performance Analysis
+**Tech Stack:** Excel • SQL • Power BI  
+
+- Conducted end-to-end sales performance analysis for Ferns N Petals (FNP) dataset  
+- Built KPI dashboards tracking revenue, product performance, customer trends, and occational demand  
+- Used EXCEL for business query analysis and data validation  
+- Identified high-performing categories and revenue-driving customer segments  
+- Delivered actionable insights for pricing and promotional strategies  
+
+🔗 GitHub Repository: [https://github.com/sampath-iiits/<your-repo-link>  ](https://github.com/sampath-iiits/FNP---Ecommerce-Sales-Analysis)
+
+---
+
+
 <h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
