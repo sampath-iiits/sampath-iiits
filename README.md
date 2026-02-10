@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sampath Kumar Talada</h1>
-<h3 align="center">Data / Business Analyst Aspirant | Power BI • SQL • Excel</h3>
+<h3 align="center">Data / Business Analyst Aspirant | Power BI • SQL • Python • Excel</h3>
 
 <p align="center">
 B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and business reporting
