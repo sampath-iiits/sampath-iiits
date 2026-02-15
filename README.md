@@ -24,7 +24,7 @@ B.Tech CSE graduate with hands-on experience in analytics, dashboarding, and bus
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/talada-sampath-kumar-685187260/
 - 💻 GitHub: https://github.com/sampath-iiits
-- 📄 Resume: https://drive.google.com/file/d/1a3Ry31XORUyOud2W4g0K1Jlxscqtvywv/view
+- 📄 Resume: [https://drive.google.com/file/d/1a3Ry31XORUyOud2W4g0K1Jlxscqtvywv/view](https://drive.google.com/file/d/1BJzZCtkmdWoPlbtwdN5CwIA9MnomVfLi/view?usp=sharing)
 
 ---
 
