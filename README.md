@@ -186,7 +186,7 @@ Working on B2B demand analytics and business intelligence solutions, transformin
   <a href="https://github.com/sampath-iiits">
     GitHub
   </a> |
-  <a href="[https://drive.google.com/file/d/1BJzZCtkmdWoPlbtwdN5CwIA9NnomVfLi/view?usp=sharing](https://drive.google.com/file/d/1rNoWXTJ-sRU0CG6XBbYrQx94-gaInzTG/view?usp=drive_link)">
+  <a href="https://drive.google.com/file/d/1rNoWXTJ-sRU0CG6XBbYrQx94-gaInzTG/view?usp=sharing" target="_blank">
     Resume
   </a>
 </p>
